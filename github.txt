@@ -1,0 +1,5 @@
+A python code using various libraries to create a calculator featuring various modes of operation using csv to store passwords and other data, with integration of captcha to verify the user and email notification using smtp if user forgets their password.
+
+*DO NOT FORGET*
+You need to modify the code to add an email from which you want to send emails for forgot password
+Also generate an app password and fill that in the blank field right beside the gmail.
