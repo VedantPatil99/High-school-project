@@ -288,7 +288,7 @@ while True:
                     msg= otp
                     s = smtplib.SMTP('smtp.gmail.com', 587)
                     s.starttls()
-                    s.login("vedantpatil2604@gmail.com", "xjakcgtvxpzlscsy")
+                    s.login("xxxxxxxxxxxxxxx@gmail.com", "xxxxxxxxxxx") #Enter the email you want to send mails with and type in the app password 
         
                     s.sendmail('&&&&&&&&&&&',email,msg)
                     
@@ -383,7 +383,7 @@ while True:
             msg= otp
             s = smtplib.SMTP('smtp.gmail.com', 587)
             s.starttls()
-            s.login("vedantpatil2604@gmail.com", "xjakcgtvxpzlscsy")
+            s.login("xxxxxxxxxxxxxxxxxxxxxx@gmail.com", "xxxxxxxxxxxxxxxxxx") #Enter the email you want to send mails with and type in the app password 
             emailid = input("Confirm your email: ")
             s.sendmail('&&&&&&&&&&&',emailid,msg)
             otp = input("Enter Your OTP >>: ")
@@ -543,7 +543,7 @@ while True:
                         msg= otp
                         s = smtplib.SMTP('smtp.gmail.com', 587)
                         s.starttls()
-                        s.login("vedantpatil2604@gmail.com", "xjakcgtvxpzlscsy")
+                        s.login("xxxxxxxxxxxx@gmail.com", "xxxxxxxxxxxxxxx") #Enter the email you want to send mails with and type in the app password 
             
                         s.sendmail('&&&&&&&&&&&',email,msg)
                         otp = input("Enter Your OTP >>: ")
