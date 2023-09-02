@@ -1,0 +1,1 @@
+A python code using various libraries to create a calculator featuring various modes of operation using csv to store passwords and other data, with integration of captcha to verify the user and email notification if user forgets their password
