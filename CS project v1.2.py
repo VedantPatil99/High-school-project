@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Oct  2 08:05:02 2022
-
-@author: SP Patil
-"""
-
 ######################FUNCTIONS################################################    
 
 import os
